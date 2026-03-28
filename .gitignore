@@ -1,4 +1,5 @@
 # Backend
+backend/target/
 backend/build/
 backend/.gradle/
 backend/bin/

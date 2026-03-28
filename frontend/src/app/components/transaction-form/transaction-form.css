@@ -1,0 +1,13 @@
+.toggle-group {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+.toggle-group mat-button-toggle {
+  width: 50%;
+}
+
+.full-width {
+  width: 100%;
+  margin-bottom: 8px;
+}
